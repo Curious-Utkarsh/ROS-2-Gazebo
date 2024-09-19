@@ -1,1 +1,1 @@
-# ROS-2-Gazebo
+# ROS-2-Manipulator
